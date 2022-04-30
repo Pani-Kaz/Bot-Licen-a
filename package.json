@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "quick.db": "^7.1.3"
+  },
+  "name": "bot-keys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pani Kaz#8893 / Vins-dev ( handler )",
+
+  "description": "Bot de keys",
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "ISC",
+  "keywords": [
+    "discord-bot",
+    "vins-dev",
+    "pani-kaz"
+  ]
+
+
+  
+}
